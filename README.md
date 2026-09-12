@@ -1,6 +1,6 @@
 # My_Portfolio_Nandhana
 Personal portfolio showcasing my projects, skills, education, and journey in AI/ML and Electronics &amp; Computer Engineering.
-# Nandhana Vinod Vadakkan - Portfolio
+# Nandhana Vadakkan - Portfolio
 
 A responsive personal portfolio website built with HTML, CSS and JavaScript.
 
